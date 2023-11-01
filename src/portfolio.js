@@ -20,10 +20,9 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
-  subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+  username: "Tripti kumari",
+  title: "Hi all, I'm Tripti",
+  subTitle: emoji("I'm a versatile web and app developer with a keen eye for UX/UI design. I'm passionate about crafting seamless digital experiences that engage and delight users."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -33,13 +32,13 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  github: "https://github.com/Triptikumari11",
+  linkedin: "https://www.linkedin.com/in/triptikumari1111/",
+  gmail: "triptikumari083@gmail.com",
+  //gitlab: "https://gitlab.com/saadpasta",
+  //facebook: "https://www.facebook.com/saad.pasta7",
+  //medium: "https://medium.com/@saadpasta",
+  //stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -49,14 +48,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "Passionate software developer with a knack for turning innovative ideas into robust, efficient code that drives success.",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "🔥 Develop highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("🔥 Proficient in SQL, adept at designing and optimizing databases to ensure seamless data management and retrieval within software projects."),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "🔥 Experienced in building cross-platform mobile applications using the Flutter framework, delivering visually appealing and high-performance user interfaces."
     )
   ],
 
@@ -72,10 +71,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-    {
+    /*{
       skillName: "sass",
       fontAwesomeClassname: "fab fa-sass"
-    },
+    },*/
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
@@ -88,10 +87,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
-    {
+    /*{
       skillName: "swift",
       fontAwesomeClassname: "fab fa-swift"
-    },
+    },*/
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
@@ -100,10 +99,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
-    {
+    /*{
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
-    },
+    },*/
     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
